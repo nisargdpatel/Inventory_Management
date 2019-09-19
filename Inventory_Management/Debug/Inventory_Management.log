@@ -1,0 +1,11 @@
+﻿  Inventory_Management.cpp
+e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\searchtree.h(38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\searchtree.h(75): note: see reference to class template instantiation 'SearchTree<E>' being compiled
+e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\searchtree.h(53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\searchtree.h(192): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\searchtree.h(208): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\avltree.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\avltree.h(48): note: see reference to class template instantiation 'AVLTree<E>' being compiled
+e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\avltree.h(116): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+e:\fall 2018\cis 350 - data struct\prog1\inventory_management\inventory_management\inventory_management.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Inventory_Management.vcxproj -> E:\Fall 2018\CIS 350 - Data Struct\Prog1\Inventory_Management\Debug\Inventory_Management.exe
